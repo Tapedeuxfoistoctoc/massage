@@ -1,0 +1,39 @@
+body {
+    background-image: url(../Massage/massage26.jpg);
+    width: 100px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+/* 
+.logo {
+    width: 50px;
+    align-items: center;
+    position: absolute;
+    right: 10%;
+}
+    a changer le */
+#decal {
+    display: flex;
+    gap: 10%;
+}
+
+nav {
+    display: flex;
+    list-style-type: none;
+    /* pas de puces */
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    /*pas de surligneur*/
+    /*text-shadow: 3px 3px 0 #000;*/
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    
+}
